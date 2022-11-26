@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,200&display=swap');
+.login {
+    min-height: 100vh;
+  }
+  
+  .bg-image {
+    background-image: url('image/pexels-daria-shevtsova-1095550.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+.card{
+    /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+    box-shadow: 0px 8px 40px 4px rgba(0, 0, 0, 0.09);
+    font-family: 'Poppins', sans-serif;
+}
+.btn{
+    background-color: #8C3C50;
+    color: white;
+    border-radius: 7px;
+}
+.btn:hover{
+    background-color: #8C3C50;
+    color: white;
+   
+}
+
+  
